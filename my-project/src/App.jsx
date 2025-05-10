@@ -1,10 +1,12 @@
-import newf from "./new"
+import Newf from "./new"
 function App() {
 
 
   return (
-<newf/>
-
+    <> //fragment
+<Newf/>
+<h1>i am learning react</h1>
+</>
   )
 }
 

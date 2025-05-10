@@ -1,6 +1,6 @@
-function newf(){
+function Newf(){
 return(
     <h3>hello hello</h3>
 )
 }
-export default newf
+export default Newf
